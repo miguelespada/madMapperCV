@@ -1,0 +1,35 @@
+<SETTINGS>
+    <THRESHOLD>41</THRESHOLD>
+    <bTHRESHOLD>1</bTHRESHOLD>
+    <WEIGHT>0.07</WEIGHT>
+    <BRIGHTNESS>0.21</BRIGHTNESS>
+    <CONTRAST>0.22</CONTRAST>
+    <CHANGETHRESHOLD>0</CHANGETHRESHOLD>
+    <bSHOWINPUT>1</bSHOWINPUT>
+    <bSHOWOUTPUT>1</bSHOWOUTPUT>
+    <bINFO>1</bINFO>
+</SETTINGS>
+<ROI>
+    <X>0</X>
+    <Y>0</Y>
+    <WIDTH>640</WIDTH>
+    <HEIGHT>480</HEIGHT>
+</ROI>
+<OUTSIDE>
+    <PT>
+        <X>85</X>
+        <Y>59</Y>
+    </PT>
+    <PT>
+        <X>599</X>
+        <Y>58</Y>
+    </PT>
+    <PT>
+        <X>628</X>
+        <Y>476</Y>
+    </PT>
+    <PT>
+        <X>42</X>
+        <Y>456</Y>
+    </PT>
+</OUTSIDE>

@@ -1,0 +1,27 @@
+<SETTINGS>
+    <THRESHOLD>41</THRESHOLD>
+    <bTHRESHOLD>1</bTHRESHOLD>
+    <BRIGHTNESS>0.49</BRIGHTNESS>
+    <CONTRAST>0.36</CONTRAST>
+    <bSHOWINPUT>0</bSHOWINPUT>
+    <bSHOWOUTPUT>0</bSHOWOUTPUT>
+    <bINFO>0</bINFO>
+</SETTINGS>
+<OUTSIDE>
+    <PT>
+        <X>196</X>
+        <Y>70</Y>
+    </PT>
+    <PT>
+        <X>389</X>
+        <Y>75</Y>
+    </PT>
+    <PT>
+        <X>416</X>
+        <Y>355</Y>
+    </PT>
+    <PT>
+        <X>176</X>
+        <Y>347</Y>
+    </PT>
+</OUTSIDE>
